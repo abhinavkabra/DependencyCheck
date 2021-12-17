@@ -6,7 +6,7 @@ This script basically clones the given repositories and builds them using maven.
 ## Requirements
 * Python modules: [os](https://docs.python.org/2/library/os.html) & [shutil](https://docs.python.org/2/library/shutil.html)
 * Maven: Installation instructions can be found [here](https://maven.apache.org/install.html)
-* [``` repo.conf```](https://github.com/security-prince/MavenDependencyCheck/blob/master/repo.conf) containing the git commands to be run for cloning the projects
+* [``` repo.conf```](https://https://github.com/abhinavkabra/DependencyCheck/repo.conf) containing the git commands to be run for cloning the projects
 
 Example commands for ```repo.conf```
  
