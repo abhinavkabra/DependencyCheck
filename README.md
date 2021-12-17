@@ -17,8 +17,7 @@ Example commands for ```repo.conf```
 
 And let the script do the magic  
 
-##### Tested and working fine on CentOS Linux release 7.6.1810 (Core) with Python 2.7.5.  
-##### Dependency: Unix/Linux environment  
+##### Tested and working fine on Windows / Python 2.7.18.   
 Note: Dependency check might need internet access to update the NVD Database for which a proxy might needed if you are in a restricted environment. To configure this script to use proxy for this use this sample code to configure your proxy settings and uncomment line [57] and comment out line [56]. Refer: [Dependency check Command Line Arguments](https://jeremylong.github.io/DependencyCheck/dependency-check-cli/arguments.html)  
 For running the mvn command using a proxy refer this [article](https://medium.com/@petehouston/execute-maven-behind-a-corporate-proxy-network-5e08d075f744)  
 
